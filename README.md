@@ -8,11 +8,13 @@ have a flashlight with them. The group has only a single flashlight among them, 
 must bring the flashlight back across the bridge to the starting side before anyone else can<br>
 cross. Each pair moves at the pace of its slowest member, i.e., the agent A and the agent D<br>
 will take 10 minutes to cross if they go together.<br>
+
 Each person moves at a different pace:<br>
 - Agent A can cross the bridge in 1 minute.<br>
 - Agent B can cross the bridge in 2 minutes.<br>
 - Agent C can cross the bridge in 5 minutes.<br>
-- Agent D can cross the bridge in 10 minutes.<br>
+- Agent D can cross the bridge in 10 minutes.<be>
+
 How can the whole group get to the other side of the bridge in the shortest possible time?<br>
 
 ## What is an A* Search?
