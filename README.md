@@ -23,12 +23,12 @@ A* Search is complete meaning if a solution exists it will find one, and it is o
 
 ## How does A* Search work?
 
-A* picks the path with the lowest f-value first.
+A* picks the path with the lowest f-value first.<br>
 
-Function for f-value: f(n) = g(n) + h(n)
-where:
-g(n) is the cost function that shows the exact cost to reach node n from the start node.
-h(n) is a heuristic function that estimates the cost to reach the goal node from node n.
+Function for f-value: f(n) = g(n) + h(n)<br>
+where:<br>
+g(n) is the cost function that shows the exact cost to reach node n from the start node.<br>
+h(n) is a heuristic function that estimates the cost to reach the goal node from node n.<br>
 
 
 ## Installation
