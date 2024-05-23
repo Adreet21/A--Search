@@ -38,7 +38,8 @@ h(n) is a heuristic function that estimates the cost to reach the goal node from
 Make a clone of the bridge_&_torch.py file in the repository.
 
 Make sure you are using the correct version of Python (ideally Python 3).<br>
-Run the bridge_&_torch.py file. No other file is needed.
+Run the bridge_&_torch.py file.<br>
+No other files are needed.
 
 ## Output
 
