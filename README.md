@@ -1,6 +1,6 @@
 # A* Search
 
-A group of researchers are being chased by zombies through a dark forest late at night. They<br>
+A group of agents are being chased by zombies through a dark forest late at night. They<br>
 come to a rope bridge over a ravine. If they can all get over the bridge before the zombies arrive,<br>
 they will survive.<br>
 At most two people can cross at a time. A person or pair of people can only cross when they<br>
