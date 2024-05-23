@@ -6,7 +6,7 @@ they will survive.<br>
 At most two people can cross at a time. A person or pair of people can only cross when they<br>
 have a flashlight with them. The group has only a single flashlight among them, so one person<br>
 must bring the flashlight back across the bridge to the starting side before anyone else can<br>
-cross. Each pair moves at the pace of its slowest member, i.e., the Undergrad and the Professor<br>
+cross. Each pair moves at the pace of its slowest member, i.e., the agent A and the agent D<br>
 will take 10 minutes to cross if they go together.<br>
 Each person moves at a different pace:<br>
 - Agent A can cross the bridge in 1 minute.<br>
