@@ -9,10 +9,10 @@ must bring the flashlight back across the bridge to the starting side before any
 cross. Each pair moves at the pace of its slowest member, i.e., the Undergrad and the Professor<br>
 will take 10 minutes to cross if they go together.<br>
 Each person moves at a different pace:<br>
-- The Undergrad can cross the bridge in 1 minute.<br>
-- The Grad Student can cross the bridge in 2 minutes.<br>
-- The Postdoc can cross the bridge in 5 minutes.<br>
-- The Professor can cross the bridge in 10 minutes.<br>
+- Agent A can cross the bridge in 1 minute.<br>
+- Agent B can cross the bridge in 2 minutes.<br>
+- Agent C can cross the bridge in 5 minutes.<br>
+- Agent D can cross the bridge in 10 minutes.<br>
 How can the whole group get to the other side of the bridge in the shortest possible time?<br>
 
 ## What is an A* Search?
