@@ -17,9 +17,9 @@ How can the whole group get to the other side of the bridge in the shortest poss
 
 ## What is an A* Search?
 
-A* Search algorith is used for path finding and traversal.<br>
+A* Search algorithm is used for pathfinding and traversal.<br>
 It combines the strength of Dijkstras's algorithm and Greedy Best-First-Search to find the shortest path from a start node to a goal node.<br>
-A* Search is complete meaning if a solution exists it will find one, and it is optimal meaning it will always find the shortest path if it useses an admissible huristic function.
+A* Search is complete meaning if a solution exists it will find one, and it is optimal meaning it will always find the shortest path if it uses an admissible heuristic function.
 
 ## How does A* Search work?
 
@@ -28,7 +28,7 @@ A* picks the path with the lowest f-value first.
 Function for f-value: f(n) = g(n) + h(n)
 where:
 g(n) is the cost function that shows the exact cost to reach node n from the start node.
-h(n) is a heuristic funstion that gives an estimate of the cost to reach the goal node form a node n.
+h(n) is a heuristic function that estimates the cost to reach the goal node from node n.
 
 
 ## Installation
@@ -41,7 +41,7 @@ Run the bridge_&_torch.py file. No other file is needed.
 ## Output
 
 After successfully running the code in the terminal, it will show "testing...", Which might take some time as it is finding the best path.<br>
-After that it will show some messages that says the testing has been done succesfully.<br>
+After that, it will show some messages that say the testing has been done successfully.<br>
 Then it will show you the output or the path with the lowest cost and the total cost at the end.
 
 ## Not functioning?
