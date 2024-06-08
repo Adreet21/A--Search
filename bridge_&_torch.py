@@ -1,4 +1,5 @@
 from heapq import heappush, heappop
+import time
 
 class Zombie_problem(object):
 
@@ -114,6 +115,8 @@ def unit_tests():
     Feel free to add additional tests.
     """
     print("testing...")
+    time.sleep(2)
+
     p = Zombie_problem()
     assert p.start_node() is not None
     assert not p.is_goal(p.start_node())
