@@ -47,6 +47,8 @@ After successfully running the code in the terminal, it will show "testing...", 
 After that, it will show some messages that say the testing has been done successfully.<br>
 Then it will show you the output or the path with the lowest cost and the total cost at the end.
 
+https://github.com/user-attachments/assets/7366cbcd-f934-4a74-b45c-07f49d4a5dfb
+
 Demo Video: https://www.youtube.com/watch?v=HoRYM_XRrY0
 
 ## Not functioning?
